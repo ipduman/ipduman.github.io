@@ -1,0 +1,14 @@
+.product {
+  stroke: black;
+  stroke-width: 3;
+  cursor: pointer;
+}
+
+.product:hover {
+  stroke: rgba(187, 34, 161, 0.74);
+  stroke-width: 5;
+}
+
+.selected {
+  stroke: rgb(0, 38, 255);
+}
